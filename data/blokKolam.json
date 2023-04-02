@@ -1,0 +1,27 @@
+[
+    {
+        "blok_id": 1,
+        "blok_nama": "A",
+        "blok_status": "aktif"
+    },
+    {
+        "blok_id": 2,
+        "blok_nama": "B",
+        "blok_status": "aktif"
+    },
+    {
+        "blok_id": 3,
+        "blok_nama": "C",
+        "blok_status": "aktif"
+    },
+    {
+        "blok_id": 4,
+        "blok_nama": "D",
+        "blok_status": "aktif"
+    },
+    {
+        "blok_id": 5,
+        "blok_nama": "E",
+        "blok_status": "aktif"
+    }
+]

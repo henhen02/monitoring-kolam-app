@@ -1,0 +1,37 @@
+[
+    {
+        "kolam_id": 1,
+        "kolam_nama": "A-01",
+        "status": "aktif"
+    },
+    {
+        "kolam_id": 2,
+        "kolam_nama": "A-02",
+        "status": "aktif"
+    },
+    {
+        "kolam_id": 3,
+        "kolam_nama": "A-03",
+        "status": "aktif"
+    },
+    {
+        "kolam_id": 4,
+        "kolam_nama": "A-04",
+        "status": "non-aktif"
+    },
+    {
+        "kolam_id": 5,
+        "kolam_nama": "A-05",
+        "status": "non-aktif"
+    },
+    {
+        "kolam_id": 6,
+        "kolam_nama": "A-06",
+        "status": "non-aktif"
+    },
+    {
+        "kolam_id": 7,
+        "kolam_nama": "A-07",
+        "status": "non-aktif"
+    }
+]
